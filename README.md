@@ -7,7 +7,7 @@
 ![Created Badge](https://badges.pufler.dev/created/phlipde/Website---Phlipde)
 
 
-> My Website
+> Currently paused
 <br>
 
 *WIP*
